@@ -1,4 +1,4 @@
-package com.google.guiceexample.orders;
+package com.google.guiceexample.guiceexample.orders;
 
 /**
  * Created with IntelliJ IDEA.

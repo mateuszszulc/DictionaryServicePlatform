@@ -1,8 +1,8 @@
-package com.google.guiceexample.service;
+package com.google.guiceexample.guiceexample.service;
 
-import com.google.guiceexample.Receipt;
-import com.google.guiceexample.cards.CreditCard;
-import com.google.guiceexample.orders.PizzaOrder;
+import com.google.guiceexample.guiceexample.Receipt;
+import com.google.guiceexample.guiceexample.cards.CreditCard;
+import com.google.guiceexample.guiceexample.orders.PizzaOrder;
 
 public interface BillingService {
 

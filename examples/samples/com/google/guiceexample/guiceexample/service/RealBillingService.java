@@ -1,11 +1,11 @@
-package com.google.guiceexample.service;
+package com.google.guiceexample.guiceexample.service;
 
-import com.google.guiceexample.ChargeResult;
-import com.google.guiceexample.Receipt;
-import com.google.guiceexample.cards.CreditCard;
-import com.google.guiceexample.logger.TransactionLog;
-import com.google.guiceexample.orders.PizzaOrder;
-import com.google.guiceexample.processor.CreditCardProcessor;
+import com.google.guiceexample.guiceexample.ChargeResult;
+import com.google.guiceexample.guiceexample.Receipt;
+import com.google.guiceexample.guiceexample.cards.CreditCard;
+import com.google.guiceexample.guiceexample.logger.TransactionLog;
+import com.google.guiceexample.guiceexample.orders.PizzaOrder;
+import com.google.guiceexample.guiceexample.processor.CreditCardProcessor;
 import com.google.inject.Inject;
 
 public class RealBillingService implements BillingService {

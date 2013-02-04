@@ -1,11 +1,11 @@
-package com.google.guiceexample.cards;
+package com.google.guiceexample.guiceexample.exceptions;
 
 /**
  * Created with IntelliJ IDEA.
  * User: mateusz.szulc
  * Date: 01.02.13
- * Time: 11:54
+ * Time: 12:05
  * To change this template use File | Settings | File Templates.
  */
-public class CreditCard {
+public class UnreachableException extends Exception {
 }

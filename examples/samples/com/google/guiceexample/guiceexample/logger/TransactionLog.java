@@ -1,7 +1,7 @@
-package com.google.guiceexample.logger;
+package com.google.guiceexample.guiceexample.logger;
 
-import com.google.guiceexample.ChargeResult;
-import com.google.guiceexample.exceptions.UnreachableException;
+import com.google.guiceexample.guiceexample.ChargeResult;
+import com.google.guiceexample.guiceexample.exceptions.UnreachableException;
 
 /**
  * Created with IntelliJ IDEA.

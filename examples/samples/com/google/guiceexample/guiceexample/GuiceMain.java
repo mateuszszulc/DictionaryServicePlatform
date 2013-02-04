@@ -1,7 +1,7 @@
-package com.google.guiceexample;
+package com.google.guiceexample.guiceexample;
 
-import com.google.guiceexample.module.BillingModule;
-import com.google.guiceexample.service.BillingService;
+import com.google.guiceexample.guiceexample.module.BillingModule;
+import com.google.guiceexample.guiceexample.service.BillingService;
 import com.google.inject.Guice;
 import com.google.inject.Injector;
 

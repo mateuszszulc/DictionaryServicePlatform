@@ -1,7 +1,7 @@
-package com.google.guiceexample.processor;
+package com.google.guiceexample.guiceexample.processor;
 
-import com.google.guiceexample.ChargeResult;
-import com.google.guiceexample.cards.CreditCard;
+import com.google.guiceexample.guiceexample.ChargeResult;
+import com.google.guiceexample.guiceexample.cards.CreditCard;
 
 /**
  * Created with IntelliJ IDEA.

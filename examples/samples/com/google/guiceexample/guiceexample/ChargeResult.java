@@ -1,4 +1,4 @@
-package com.google.guiceexample;
+package com.google.guiceexample.guiceexample;
 
 /**
  * Created with IntelliJ IDEA.
