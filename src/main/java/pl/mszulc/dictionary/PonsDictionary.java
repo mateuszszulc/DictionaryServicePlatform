@@ -7,13 +7,6 @@ import org.jsoup.select.Elements;
 
 import java.io.IOException;
 
-/**
- * Created with IntelliJ IDEA.
- * User: mateusz.szulc
- * Date: 04.02.13
- * Time: 11:13
- * To change this template use File | Settings | File Templates.
- */
 public class PonsDictionary implements Dictionary {
     private static final String ponsURL = "http://pl.pons.eu/dict/search/results/?q=%s&l=%s";
     private final String dictionary;
